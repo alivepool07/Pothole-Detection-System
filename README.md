@@ -9,7 +9,7 @@ By leveraging deep learning techniques, the project provides a solution to autom
 Potholes are a common problem on roads, causing inconvenience to drivers and potentially leading to accidents. Manual detection and monitoring of potholes can be time-consuming and expensive. This project offers an automated solution that uses the YOLO algorithm to detect and localize potholes in images or videos.
 The YOLO algorithm is a real-time object detection system that analyzes an image in its entirety and predicts bounding boxes and class probabilities for different objects. By training a YOLO model on a dataset of pothole images, we can create a robust pothole detection system.
 
-#F eatures
+# Features
 
 Detect potholes in images or videos
 Provide bounding box coordinates for identified potholes
